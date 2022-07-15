@@ -1,0 +1,4 @@
+How many bits are in an int?~32
+What is the name of the method that is the starting point for our java programs?~main
+Which keyword is used to creat an object in java?~new
+What was the original name of the 'Java' programming language?(three letters)~Oak

@@ -1,0 +1,12 @@
+Write the correct extension on this java source file:
+JavaSourceFile.~java
+
+Name this variable with the correct naming convention (minimum 2 characters):
+FINAL int ~NUMBEROFDAYS;
+
+What is the value of x after this code executes:
+int x = 0;
+x++;
+x -= 1;
+x = 5 * x;
+~0
